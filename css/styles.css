@@ -10,6 +10,7 @@ body {
 	font-family: 'Montserrat', sans-serif;
 	line-height: 1.5;
 	color: #000;
+	overflow-x: hidden;
 }
 
 /* Header Style */
